@@ -1,0 +1,31 @@
+.bg
+{
+background-image: url('/image/pera17.webp');
+background-size: cover;
+height: 1000px;
+width: 1300px;
+ background-repeat: no-repeat;
+padding: 15px;
+}
+.choise{
+    background-color:rgb(221, 255, 0);
+}
+.ppading{
+    padding: 75px;
+    font-size: 30px;
+}
+
+.samad{
+    color: white;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 100px;
+}
+.exam{
+    color: white;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.work{
+   
+}
